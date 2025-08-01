@@ -2,9 +2,10 @@
   "name": "aryan-media-downloader",
   "version": "0.0.7",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node src/test.js"
+    "test": "node test.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
