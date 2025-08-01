@@ -32,7 +32,8 @@ function createRequest(endpoint, formatData) {
         resolve(response.data);
       } catch (error) {
         resolve({
-          developer: 'Aryan 🎀',
+          developer: 'itz Aryan',
+          facebook: 'https://www.facebook.com/profile.php?id=100001200784032',
           status: false,
         });
       }
