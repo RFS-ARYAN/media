@@ -1,5 +1,5 @@
 {
-  "name": "aryan-nix-downloader",
+  "name": "aryan-nix-download",
   "version": "0.0.8",
   "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "src/index.js",
